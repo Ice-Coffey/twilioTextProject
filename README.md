@@ -1,4 +1,4 @@
-# twilioTextProject
+# Twilio Late Text Project
 A fun side project using the twilio app for a coding interview
 
 twilioProject.py is the main program.
